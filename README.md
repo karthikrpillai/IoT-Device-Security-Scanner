@@ -36,12 +36,12 @@ The results are shown on a web page made using Flask.
 # Project Files
 
 iotdevicescanner/
- app.py
- scanner.py
- fake_device.py
- requirements.txt
- README.md
- static/
+ -app.py
+ -scanner.py
+ -fake_device.py
+ -requirements.txt
+ -README.md
+   |static/
     -index.html
     -style.css
     -script.js
