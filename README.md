@@ -40,11 +40,11 @@ iotdevicescanner/
  scanner.py
  fake_device.py
  requirements.txt
-README.txt
+ README.md
  static/
-    index.html
-    style.css
-    script.js
+    -index.html
+    -style.css
+    -script.js
 
 File | Use 
 
